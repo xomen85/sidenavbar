@@ -1,1 +1,1 @@
-# sidenavbar using HTML,CSS and javascript
+side navigation bar using HTML,CSS and javascript
